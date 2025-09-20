@@ -10,7 +10,7 @@ This UiPath automation extracts COVID-19 statistics for a user-specified country
 
 ### Main.xaml
 - Entry point for the automation.
-- Invokes either [`ClassicWorkFlow`](ClassicWorkFlow.xaml) or [`ModernWorkFlow`](ModernWorkFlow.xaml) based on project requirements.
+- Invokes either [`ClassicWorkFlow`](Project/ExtractCoronaNumbersToText/ClassicWorkFlow.xaml) or [`ModernWorkFlow`](Project/ExtractCoronaNumbersToText/ModernWorkFlow.xaml) based on project requirements.
 
 ### ClassicWorkFlow.xaml
 - Uses classic activities to:
@@ -55,16 +55,16 @@ This UiPath automation extracts COVID-19 statistics for a user-specified country
 
 ## How to Run
 
-1. Open [Main.xaml](Main.xaml) in UiPath Studio.
+1. Open [Main.xaml](Project/ExtractCoronaNumbersToText/Main.xaml) in UiPath Studio.
 2. Run the workflow.
 3. Enter the desired country name when prompted.
 4. The automation will extract the data and save it to a Notepad file.
 
 ## File Structure
 
-- [Main.xaml](Main.xaml): Main workflow.
-- [ClassicWorkFlow.xaml](ClassicWorkFlow.xaml): Classic implementation.
-- [ModernWorkFlow.xaml](ModernWorkFlow.xaml): Modern implementation.
+- [Main.xaml](Project/ExtractCoronaNumbersToText/Main.xaml): Main workflow.
+- [ClassicWorkFlow.xaml](Project/ExtractCoronaNumbersToText/ClassicWorkFlow.xaml): Classic implementation.
+- [ModernWorkFlow.xaml](Project/ExtractCoronaNumbersToText/ModernWorkFlow.xaml): Modern implementation.
 - `CoronaNumbers/`: Output folder for saved files.
 
 ## Notes
