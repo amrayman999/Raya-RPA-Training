@@ -1,0 +1,55 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "PDF_ExtractInfo.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strInvoiceTotal&Sequence_1",
+        "strInvoiceCountry&Sequence_1",
+        "strCityCountryLine&Sequence_1",
+        "strInvoiceCity&Sequence_1",
+        "strInvoiceTaxId&Sequence_1",
+        "strInvoiceAddress&Sequence_1",
+        "strInvoiceDate&Sequence_1",
+        "strInvoiceId&Sequence_1",
+        "strPdfOutputText&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_strFIleName",
+        "out_strInvoiceInfo"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Text_WriteInfo.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_strFileName",
+        "out_boolFileExists",
+        "in_strInvoiceInformation"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strInvoiceInfo&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

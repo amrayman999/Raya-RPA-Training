@@ -1,0 +1,7 @@
+Invoice ID: 724682
+Invoice Date: 2017-08-04
+Invoice Address: Somewhere Road 59,, Bucharest, Romania
+Invoice Tax Id: FR453231
+Invoice City: Bucharest
+Invoice Country: Romania
+Invoice Total: 256487

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "City, State, Zip",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "k9JTuXfSR0S1VzBhTEQGQQ",
+  "Reference": "0gpzYPTxx0awk9HuWK7WAA/k9JTuXfSR0S1VzBhTEQGQQ",
+  "ParentRef": "0gpzYPTxx0awk9HuWK7WAA/xoWFfq1Kz02K8_rylLv_RQ",
+  "Created": "2025-09-13T17:20:38.5978437Z",
+  "Updated": "2025-09-13T17:20:38.5978437Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

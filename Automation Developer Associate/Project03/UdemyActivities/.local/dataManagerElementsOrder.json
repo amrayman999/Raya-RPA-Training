@@ -1,0 +1,131 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Udemy_Logout.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolProfileIconBeforeExists&Sequence_1",
+        "boolLoginButtonExists&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_strUdemyUrl"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": ".templates/RayaSequenceTemplate.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Udemy_LaunchApp.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolUdemyOpened&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_strUdemyUrl"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Udemy_Login.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "timeDateSent&Sequence_1",
+        "boolLoginButtonExists&Sequence_1",
+        "boolProfileIconExists&Sequence_1",
+        "strConfirmationCode&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_intTriesNumber",
+        "in_strEmailAddress",
+        "in_spanReTryIntervalSeconds",
+        "in_strUdemyUrl"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Udemy_CloseApp.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolUdemyNotClosed&Sequence_1",
+        "boolLoginButtonExists&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Components/Outlook/OutLook_GetVerificationCode.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolCodeCorrect&Sequence_5",
+        "boolEmailToSendCodeExists&Sequence_1",
+        "boolVerifyCodeAreaExists&Sequence_1",
+        "mailTargetMailMessage&Sequence_1",
+        "listMailMessages&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_timeDateSent",
+        "in_strEmailAddress",
+        "out_strConfirmationCode",
+        "in_intRetryNumber",
+        "in_spanReTryIntervalSeconds"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Components/Udemy/Udemy_ConfirmLogin.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolProfileIconFound&Sequence_1",
+        "boolEmailToSendCodeExists&Sequence_1",
+        "boolVerifyCodeAreaExists&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_strConfirmationCode",
+        "in_intTriesNumber",
+        "in_spanReTryIntervalSeconds",
+        "in_strEmailAddress",
+        "in_strUdemyUrl"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Components/Udemy/Udemy_ProceedToLogin.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolEmailToSendCodeExists&Sequence_1",
+        "boolVerifyCodeAreaExists&Sequence_1",
+        "boolWrongCredentials&Sequence_1",
+        "boolEmailCashed&Sequence_1",
+        "boolLoginButtonExists&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_intTriesNumber",
+        "in_strEmailAddress",
+        "in_spanReTryIntervalSeconds",
+        "in_strUdemyUrl"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

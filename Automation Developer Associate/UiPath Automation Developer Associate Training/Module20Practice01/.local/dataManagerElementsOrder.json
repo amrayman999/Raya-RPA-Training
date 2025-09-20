@@ -1,0 +1,25 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "WorkingWithOrchestratorResources.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strAcmeUrl&Sequence_1",
+        "Password&Sequence_1",
+        "Email&Sequence_1",
+        "dt_ExtractDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

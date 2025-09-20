@@ -1,0 +1,197 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RPAChallengeWeb/RPAChallengeWeb_Lanuch.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolTitleExists&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_strWebsiteUrl"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RPAChallengeWeb/RPAChallengeWeb_DownloadData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolDuplicateNamePopUpExists&Sequence_1",
+        "boolDownloadFileExists&Sequence_1",
+        "boolTitleExists&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_strFileDownloadName",
+        "in_strFileDownloadFolder"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Excell/Excell_ExtractData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "listInvalidData&Sequence_1",
+        "boolDownloadFileExists&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_dtChallengeData",
+        "in_strFileDownloadName",
+        "in_strFileDownloadFolder"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RPAChallengeWeb/RPAChallengeWeb_SubmitCase.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolButtonCurrentRoundExists&Sequence_1",
+        "intNextRound&Sequence_1",
+        "boolButtonResetExists&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_intCurrentRound",
+        "in_dtrowCurrentData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Output/Output_SaveScreenshot.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolResultImageFileExists&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_strResultFilePath",
+        "in_strResultFolderName",
+        "in_imageResultScreenshot"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RPAChallengeWeb/RPAChallengeWeb_TakeScreenshot.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolCongratsElementExists&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_imageResultScreenshot"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RPAChallengeWeb/RPAChallengeWeb_Close.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolResultImageFileExists&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_strResultFilePath"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RPAChallengeWeb/RPAChallengeWeb_StartChallenge.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolRound1ButtonExists&Sequence_1",
+        "boolStartButtonExists&Sequence_1",
+        "listInvalidData&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_dtChallengeData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtEmailsData&Flowchart_1",
+        "strResultFolderName&Flowchart_1",
+        "strResultFilePath&Flowchart_1",
+        "imageScreenshot&Flowchart_1",
+        "intCurrentRound&Sequence_1",
+        "dtChallengeData&Flowchart_1",
+        "strFileDownloadFolder&Flowchart_1",
+        "strFileDownloadName&Flowchart_1",
+        "strWebsiteUrl&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Email/Email_SendResultReport.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strEmailBodyHtml&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_strCurrentEmailCode",
+        "in_strPrevEmailCode",
+        "in_strCurrentName",
+        "in_strCurrentEmail",
+        "in_strResultFilePath"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": ".templates/ExcellExtractData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolDownloadFileExists&Sequence_1",
+        "listInvalidData&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_strFileDownloadFolder",
+        "in_strFileDownloadName",
+        "out_dtChallengeData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Excell/Excell_ExtractEmailsData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolEmailsFileExists&Sequence_1",
+        "listInvalidData&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_dtEmailsData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Email/Email_SendReportToAll.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strEmailSentCode&Sequence_1",
+        "boolResultImageFileExists&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_dtEmailsData",
+        "in_strResultFilePath"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Invoice ID: 405694
+Invoice Date: 2017-09-27
+Invoice Address: Somewhere Road 59,, Bucharest, Romania
+Invoice Tax Id: RO657483
+Invoice City: Bucharest
+Invoice Country: Romania
+Invoice Total: 330208

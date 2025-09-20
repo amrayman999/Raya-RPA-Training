@@ -1,0 +1,163 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtCandidatesData&Flowchart_1",
+        "intNumOfFiles&Flowchart_1",
+        "intUserChoice&Flowchart_1",
+        "strAPIKey&Flowchart_1",
+        "strResultFilePath&Flowchart_1",
+        "dtEmailsData&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "DataManagement/DataManagement_Build.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "out_dtCandidatesData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Control/Control_PromptUserExtractionChoice.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strUserChoice&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_intUserChoice"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AIExtraction/AIExtraction_ExtractWithUiPath.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "docExtractionData&Sequence_4",
+        "boolCurrentFileExists&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "inout_dtCandidatesData",
+        "in_strCurrentFilePath"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Excell/Excell_ExtractEmailsData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolEmailsFileExists&Sequence_1",
+        "listInvalidData&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_dtEmailsData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Excell/Excell_SaveCVsData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolExcellFileExists&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_strExcellFilePath",
+        "in_dtCandidatesData",
+        "in_intNumberOfFiles"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Email/Email_SendResultReport.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strEmailBodyHtml&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_intUserChoice",
+        "in_strResultFilePath",
+        "in_strCurrentEmail",
+        "in_strCurrentName",
+        "in_strPrevEmailCode",
+        "out_strCurrentEmailCode"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Email/Email_SendReportToAll.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolResultExcellFileExists&Sequence_1",
+        "strEmailSentCode&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_intUserChoice",
+        "in_strResultFilePath",
+        "in_dtEmailsData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Control/Control_LoopOnFiles.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strPromptText&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "inout_dtCandidatesData",
+        "out_intNumOfFiles",
+        "in_intUserChoice",
+        "in_strAPIkey"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AIExtraction/AIExtraction_ExtractWithGeminiAPI.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolCurrentFileExists&Sequence_1",
+        "strPDFBase64String&Sequence_1",
+        "responseAPIResponse&Sequence_1",
+        "intResponseStatus&Sequence_1",
+        "strJsonResponse&Sequence_1",
+        "objJsonResponseObject&Sequence_1",
+        "strExtractedData&Sequence_1",
+        "objCVDataObject&Sequence_1",
+        "strPDFText&Sequence_1",
+        "strExtractedJsonString&Sequence_1",
+        "strJsonBody&Sequence_1",
+        "strResponseContent&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_strCurrentFilePath",
+        "inout_dtCandidatesData",
+        "in_strAPIKey",
+        "in_strPromptText"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

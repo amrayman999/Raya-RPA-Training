@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Add Account",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "6ynKJu_1yki59nHHxHWa2A",
+  "Reference": "0gpzYPTxx0awk9HuWK7WAA/6ynKJu_1yki59nHHxHWa2A",
+  "ParentRef": "0gpzYPTxx0awk9HuWK7WAA/xoWFfq1Kz02K8_rylLv_RQ",
+  "Created": "2025-09-13T17:22:25.2891Z",
+  "Updated": "2025-09-13T17:22:25.2891Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

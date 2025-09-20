@@ -1,0 +1,7 @@
+Invoice ID: 
+Invoice Date: 2017-09-26
+Invoice Address: 
+Invoice Tax Id: 
+Invoice City: 
+Invoice Country: 
+Invoice Total:

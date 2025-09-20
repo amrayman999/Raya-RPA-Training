@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge ACME System 1 - Add Account",
+  "Type": "Screen",
+  "Id": "xoWFfq1Kz02K8_rylLv_RQ",
+  "Reference": "0gpzYPTxx0awk9HuWK7WAA/xoWFfq1Kz02K8_rylLv_RQ",
+  "ParentRef": "0gpzYPTxx0awk9HuWK7WAA/Ij7eS7K8BkO_x3rbqri_DA",
+  "Created": "2025-09-13T17:19:38.1563413Z",
+  "Updated": "2025-09-13T17:19:38.1563413Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

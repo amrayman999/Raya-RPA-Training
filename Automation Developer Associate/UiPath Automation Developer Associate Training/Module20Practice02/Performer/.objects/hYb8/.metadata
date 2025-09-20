@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge ACME System 1 - Add Account",
+  "Type": "App",
+  "Id": "hYb8kUWbCEmmrWWoQpWhpg",
+  "Reference": "0gpzYPTxx0awk9HuWK7WAA/hYb8kUWbCEmmrWWoQpWhpg",
+  "Created": "2025-09-13T17:19:38.0963744Z",
+  "Updated": "2025-09-13T17:19:38.0963744Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

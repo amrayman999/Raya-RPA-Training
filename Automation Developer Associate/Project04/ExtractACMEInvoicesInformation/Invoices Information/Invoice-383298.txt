@@ -1,0 +1,7 @@
+Invoice ID: 383298
+Invoice Date: 2017-01-13
+Invoice Address: Somewhere Road 59,, Bucharest, Romania
+Invoice Tax Id: RO892123
+Invoice City: Bucharest
+Invoice Country: Romania
+Invoice Total: 305124

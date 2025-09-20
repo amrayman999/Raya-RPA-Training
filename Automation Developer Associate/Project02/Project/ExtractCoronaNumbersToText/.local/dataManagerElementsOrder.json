@@ -1,0 +1,49 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ClassicWorkFlow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strFullFilePath&Sequence_1",
+        "edgeBrowser&Sequence_19",
+        "strCoronaRecoveries&Sequence_1",
+        "strCoronaDeaths&Sequence_1",
+        "strCoronaCases&Sequence_1",
+        "strCountryName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ModernWorkFlow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strCoronaRecoveries&Sequence_1",
+        "strFullFilePath&Sequence_1",
+        "strCoronaDeaths&Sequence_1",
+        "strCoronaCases&Sequence_1",
+        "strCountryName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

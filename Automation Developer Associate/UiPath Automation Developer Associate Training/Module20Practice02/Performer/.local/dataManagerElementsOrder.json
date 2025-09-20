@@ -1,0 +1,40 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ACME_Process_Performer.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strNumberOfDependents&TryCatch_1",
+        "strAge&TryCatch_1",
+        "strEmail&TryCatch_1",
+        "str_Phone&TryCatch_1",
+        "strCityStateZip&TryCatch_1",
+        "strLastName&TryCatch_1",
+        "strFirstName&TryCatch_1",
+        "transactionItem&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ShouldStop&Flowchart_1",
+        "Counter&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

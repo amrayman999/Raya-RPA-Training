@@ -1,0 +1,7 @@
+Invoice ID: 
+Invoice Date: 2017-01-13
+Invoice Address: 
+Invoice Tax Id: RO892123
+Invoice City: 
+Invoice Country: 
+Invoice Total:

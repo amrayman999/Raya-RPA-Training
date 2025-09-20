@@ -1,0 +1,4 @@
+CourseNumber,CourseTitle,CourseAuthor,CourseRate,CoursePrice
+1,Fundamentals of Backend Engineering,Hussein Nasser,4.8,349.99
+2,"Node.js, Express, MongoDB & More: The Complete Bootcamp",Jonas Schmedtmann,4.6,429.99
+3,The Complete Full-Stack Web Development Bootcamp,"Dr. Angela Yu, Developer and Lead Instructor",4.7,399.99

@@ -1,0 +1,38 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "doubleFinalEarning&Sequence_1",
+        "doubleInitialDeposit&Sequence_1",
+        "intChosenPeriod&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SimpleInterestCalculator.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "doubleRatePerYear&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "OutFinalEarnings",
+        "InChosenPeriod",
+        "InInitialDeposit"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

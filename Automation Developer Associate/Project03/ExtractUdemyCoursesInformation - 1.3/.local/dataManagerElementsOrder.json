@@ -1,0 +1,246 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Mainold.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolCoursesFound&Sequence_1",
+        "udemyBrowser&Sequence_1",
+        "strCourseRate&Sequence_1",
+        "strCoursePrice&Sequence_1",
+        "strCourseTitle&Sequence_1",
+        "strUserChoice&Sequence_1",
+        "strInputCourseName&Sequence_1",
+        "boolContinueSearch&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Control/InitializeApps.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "out_EdgeBrowserSession"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Edge/SearchCourses.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strCourseSearchQuery&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "inout_EdgeBrowserSession",
+        "out_boolCoursesExist"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Edge/RetrieveCoursesData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "uiListCourses&Sequence_1",
+        "intNumberOfCourses&Sequence_1",
+        "intCourseNumber&Sequence_1",
+        "strCourseAuthor&Sequence_1",
+        "strCourseRate&Sequence_1",
+        "strCoursePrice&Sequence_1",
+        "strCourseTitle&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "inout_EdgeBrowserSession",
+        "out_dtCoursesData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Control/CloseApps.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_EdgeBrowserSession"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolLoggedOut&Flowchart_1",
+        "boolContinueSearch&Flowchart_1",
+        "intNumberOfCourses&Flowchart_1",
+        "dtCoursesData&Flowchart_1",
+        "boolCoursesNotExist&Flowchart_1",
+        "strCourseSearchQuery&Flowchart_1",
+        "strUdemyUrl&Flowchart_1",
+        "spanReTryIntervalSeconds&Flowchart_1",
+        "strEmailAddress&Flowchart_1",
+        "intTriesNumber&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Control/Control_CheckToContinue.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strUserResponse&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_boolContinueSearch"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Edge/LoginToUdemy.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolEmailFieldExists&Sequence_4",
+        "targetMail&Sequence_4",
+        "strConfirmationCode&Sequence_4",
+        "list_Emails&Sequence_4",
+        "boolIsLoggedIn&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "inout_EdgeBrowserSession"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Edge/ShowLeastPriceCourses.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strOutputMsg&Sequence_1",
+        "doubleMinimumPrice&Sequence_1",
+        "dtrow_CheapestCourses&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_dtCoursesData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Edge/LogOutUdemy.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "inout_EdgeBrowserSession"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Edge/LoginUdemy.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolIsLoggedIn&Flowchart_1",
+        "boolEmailFieldExist&Flowchart_1",
+        "listEmails&Sequence_13",
+        "strConfirmationCode&Sequence_13",
+        "targetMail&Sequence_13",
+        "timeCodeRequest&Sequence_13"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "inout_EdgeBrowserSession"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Edge-Udemy/Udemy_RetrieveCoursesData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolDataTableCorrect&Sequence_5",
+        "boolCoursesContainerFound&Sequence_1",
+        "intCourseNumber&Sequence_1",
+        "strCourseTitle&Sequence_1",
+        "strCourseAuthor&Sequence_1",
+        "strCourseRate&Sequence_1",
+        "strCoursePrice&Sequence_1",
+        "in_strCourseSearchQuery&Sequence_6"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_dtCoursesData",
+        "in_intNumberOfCourses",
+        "in_strUdemyUrl"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "NotePad/NotePad_SaveCoursesData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolOperationFileCreated&Sequence_1",
+        "boolDataTableCorrect&Sequence_1",
+        "strCoursesDataText&Sequence_1",
+        "strFileName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_intNumberOfCourses",
+        "in_dtCoursesData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Edge-Udemy/Udemy_ShowLeastPriceCourses.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "doubleMinimumPrice&Sequence_1",
+        "dtrow_CheapestCourses&Sequence_1",
+        "strOutputMsg&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_dtCoursesData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Edge-Udemy/Udemy_SearchCourses.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolCoursesContainerFound&Sequence_1",
+        "boolProfileIconExists&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_boolCoursesNotExist",
+        "in_strUdemyUrl",
+        "out_strCourseSearchQuery"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Control/Control_CheckToLogin.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_strUdemyUrl",
+        "out_boolLoggedOut"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

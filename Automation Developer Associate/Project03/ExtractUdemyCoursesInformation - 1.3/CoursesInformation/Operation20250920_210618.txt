@@ -1,0 +1,4 @@
+CourseNumber,CourseTitle,CourseAuthor,CourseRate,CoursePrice
+1,The AI Engineer Course 2025: Complete AI Engineer Bootcamp,365 Careers,4.6,349.99
+2,"The Complete AI Guide: Learn ChatGPT, Generative AI & More","Julian Melanson, Benza Maman, Leap Year Learning",4.5,349.99
+3,"LLM Engineering: Master AI, Large Language Models & Agents","Ligency Team, Ed Donner",4.7,349.99

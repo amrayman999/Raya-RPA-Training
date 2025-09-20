@@ -1,0 +1,7 @@
+Invoice ID: 
+Invoice Date: 0000-00-00
+Invoice Address: 
+Invoice Tax Id: DE763212
+Invoice City: 
+Invoice Country: 
+Invoice Total:

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge ACME System 1 - Add Vendor",
+  "Type": "Screen",
+  "Id": "uDZ4oK0fgEe77Yn-FrCZYg",
+  "Reference": "kAosw8Pp302nZyIaoohzHg/uDZ4oK0fgEe77Yn-FrCZYg",
+  "ParentRef": "kAosw8Pp302nZyIaoohzHg/YWNiVKKNZ0e6G86hCsHN5w",
+  "Created": "2025-09-12T11:28:32.0409817Z",
+  "Updated": "2025-09-12T11:28:32.0409817Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

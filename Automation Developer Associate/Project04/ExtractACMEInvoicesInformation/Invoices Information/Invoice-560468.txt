@@ -1,0 +1,7 @@
+Invoice ID: 560468
+Invoice Date: 2017-05-03
+Invoice Address: Somewhere Road 59,, Bucharest, Romania
+Invoice Tax Id: FR065748
+Invoice City: Bucharest
+Invoice Country: Romania
+Invoice Total: 116297

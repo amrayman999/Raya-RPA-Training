@@ -28,12 +28,14 @@ This space showcases my **professional growth** and serves as proof of expertise
 
 ## 🏆 Credentials & Certificates
 
-| Certification                        | Provider   | Status      | Location |
-| -------------------------------------- | ---------- | ----------- | ------------ |
-| 🎓 Python (Basic)                     | HackerRank | ✅ Completed | [Python](Certificates/python_basic%20certificate.jpg) |
-| 💻 C# (Basic)                          | HackerRank | ✅ Completed | [C#](Certificates/Assignment01/Assignment01/c_sharp_basic%20certificate.jpg) |
-| 🤖 UiPath Business Analyst Associate | UiPath     | ✅ Completed | [UiPath Business Analyst certificate](Certificates/UiPath%20Automation%20Business%20Analyst%20Associate%20Training%20Certificate/UiPath%20Business%20Analyst%20Associate%20Certificate.png)|
-| 🤖 UiPath Automation Infrastructure Engineer Professional with Windows Training | UiPath | ✅ Completed | [UiPath Infrastructure Professional Certificate](Certificates/UiPath%20Automation%20Business%20Analyst%20Associate%20Training%20Certificate.png/UiPath%20Automation%20InfraStructure%20Engineer%20Professional%20with%20Windows%20Training.png)
+| Certification                                             | Provider   | Status      | Location |
+| -------------------------------------------------------- | ---------- | ----------- | ------------ |
+| 🎓 Python (Basic)                                        | HackerRank | ✅ Completed | [python_basic certificate.jpg](Certificates/python_basic%20certificate.jpg) |
+| 💻 C# (Basic)                                            | HackerRank | ✅ Completed | [c_sharp_basic certificate.jpg](Certificates/c_sharp_basic%20certificate.jpg) |
+| 🤖 UiPath Automation Developer Associate Certificate      | UiPath     | ✅ Completed | [UiPath Automation Developer Associate Certificate.png](Certificates/UiPath%20Automation%20Developer%20Associate%20Certificate.png) |
+| 🤖 UiPath Automation Explorer Certificate                 | UiPath     | ✅ Completed | [uiPath Automation Explorer Certificate.png](Certificates/uiPath%20Automation%20Explorer%20Certificate.png) |
+| 🤖 UiPath Automation Infrastructure Engineer Professional with Windows Training | UiPath | ✅ Completed | [UiPath Automation InfraStructure Engineer Professional with Windows Training.png](Certificates/UiPath%20Automation%20InfraStructure%20Engineer%20Professional%20with%20Windows%20Training.png) |
+| 🤖 UiPath Business Analyst Associate Certificate          | UiPath     | ✅ Completed | [UiPath Business Analyst Associate Certificate.png](Certificates/UiPath%20Business%20Analyst%20Associate%20Certificate.png) |
 
 ---
 
@@ -66,17 +68,30 @@ Raya-RPA-Training/
 |                                      | UiPath BA - Task02 - OnBoarding Process Assessment                                                                                               | [UiPath BA - Task02](Business%20Analysis/UiPath%20Automation%20Business%20Analyst%20Associate%20Training%20Certificate/Task02) |
 |                                      | UiPath BA - Task03 - Issues Solution for ACME System Use Case                                                                                    | [UiPath BA - Task03](Business%20Analysis/UiPath%20Automation%20Business%20Analyst%20Associate%20Training%20Certificate/Task03) |
 |                                      | UiPath BA - Task04 - Vendor OnBoarding (Process Assessment, P.D.D, Process Description, Process Vision Statement, Process Overview, SIPOC Model) | [UiPath BA - Task04](Business%20Analysis/UiPath%20Automation%20Business%20Analyst%20Associate%20Training%20Certificate/Task04) |
-| Automation Developer Associate | Task01 - (sdd,pdd,uipath implementation of Extract Random Weather Process) | [Task01](Automation%20Developer%20Associate/Task01) |
-|                                | UiPath Automation Developer Associate Training Task01 - Excell Reports Consolidation | [UiPath Task01](Automation%20Developer%20Associate/UiPath%20Automation%20Developer%20Associate%20Training/Task01) | 
-|                                | Task02 - (sdd,pdd,uipath implementation of Extract Corona Numbers To Text File) | [Task02](Automation%20Developer%20Associate/Task02) |
+| Automation Developer Associate | Project01 - Weather Data Extraction (PDD, SDD, UiPath Implementation) | [Project01](Automation%20Developer%20Associate/Project01) |
+| Automation Developer Associate | Project02 - Corona Numbers Extraction (PDD, SDD, UiPath Implementation) | [Project02](Automation%20Developer%20Associate/Project02) |
+| Automation Developer Associate | Project03 - Udemy Courses Information Extraction (PDD, SDD, UiPath Implementation) | [Project03](Automation%20Developer%20Associate/Project03) |
+| Automation Developer Associate | Project04 - ACME Invoices Information Extraction (PDD, SDD, UiPath Implementation) | [Project04](Automation%20Developer%20Associate/Project04) |
+| Automation Developer Associate | Project05 - RPA Challenge Solver (PDD, SDD, UiPath Implementation) | [Project05](Automation%20Developer%20Associate/Project05) |
+| Automation Developer Associate | Project06 - CV Information Extractor (PDD, SDD, UiPath Implementation) | [Project06](Automation%20Developer%20Associate/Project06) |
+| Automation Developer Associate | UiPath Automation Developer Associate Training (All Practice Modules) | [UiPath Automation Developer Associate Training](Automation%20Developer%20Associate/UiPath%20Automation%20Developer%20Associate%20Training/) |
 
 ---
 
-## 💡 Key Learnings 
-* Deep understanding of **RPA concepts and lifecycle**
-* Hands-on experience with **UiPath** and automation workflows
-* Exposure to **real-world automation scenarios**
-* Building scalable and maintainable **automation solutions**
+
+## 💡 Key Learnings
+
+* Mastered the **end-to-end RPA development lifecycle**: requirements gathering, process analysis, solution design (PDD/SDD), implementation, testing, and deployment.
+* Built and deployed **UiPath automation projects** for real-world business processes, including data extraction, invoice processing, report consolidation, and web automation.
+* Applied **best practices in RPA solution architecture**, modular workflow design, exception handling, and robust error management.
+* Automated complex business scenarios using **UiPath Studio**, leveraging activities, selectors, data scraping, and custom components.
+* Integrated **Orchestrator** for scheduling, monitoring, and managing unattended robots.
+* Developed strong skills in **process documentation** (PDD, SDD), business analysis, and stakeholder communication.
+* Gained hands-on experience with **Python and C# scripting** for automation and data manipulation.
+* Practiced **secure credential management**, logging, and audit trail implementation in RPA solutions.
+* Collaborated in a professional environment, following **agile methodologies** and version control best practices.
+* Demonstrated expertise in **UiPath certifications**: Developer, Business Analyst, Infrastructure Engineer, and Explorer.
+* Delivered automation solutions that improved efficiency, reduced manual effort, and ensured compliance.
 
 ---
 
