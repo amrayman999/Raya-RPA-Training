@@ -69,12 +69,12 @@ Raya-RPA-Training/
 |                                      | UiPath BA - Task03 - Issues Solution for ACME System Use Case                                                                                    | [UiPath BA - Task03](Business%20Analysis/UiPath%20Automation%20Business%20Analyst%20Associate%20Training%20Certificate/Task03) |
 |                                      | UiPath BA - Task04 - Vendor OnBoarding (Process Assessment, P.D.D, Process Description, Process Vision Statement, Process Overview, SIPOC Model) | [UiPath BA - Task04](Business%20Analysis/UiPath%20Automation%20Business%20Analyst%20Associate%20Training%20Certificate/Task04) |
 | Automation Developer Associate | Project01 - Weather Data Extraction (PDD, SDD, UiPath Implementation) | [Project01](Automation%20Developer%20Associate/Project01) |
-| Automation Developer Associate | Project02 - Corona Numbers Extraction (PDD, SDD, UiPath Implementation) | [Project02](Automation%20Developer%20Associate/Project02) |
-| Automation Developer Associate | Project03 - Udemy Courses Information Extraction (PDD, SDD, UiPath Implementation) | [Project03](Automation%20Developer%20Associate/Project03) |
-| Automation Developer Associate | Project04 - ACME Invoices Information Extraction (PDD, SDD, UiPath Implementation) | [Project04](Automation%20Developer%20Associate/Project04) |
-| Automation Developer Associate | Project05 - RPA Challenge Solver (PDD, SDD, UiPath Implementation) | [Project05](Automation%20Developer%20Associate/Project05) |
-| Automation Developer Associate | Project06 - CV Information Extractor (PDD, SDD, UiPath Implementation) | [Project06](Automation%20Developer%20Associate/Project06) |
-| Automation Developer Associate | UiPath Automation Developer Associate Training (All Practice Modules) | [UiPath Automation Developer Associate Training](Automation%20Developer%20Associate/UiPath%20Automation%20Developer%20Associate%20Training/) |
+|  | Project02 - Corona Numbers Extraction (PDD, SDD, UiPath Implementation) | [Project02](Automation%20Developer%20Associate/Project02) |
+|  | Project03 - Udemy Courses Information Extraction (UiPath Implementation) | [Project03](Automation%20Developer%20Associate/Project03) |
+|  | Project04 - ACME Invoices Information Extraction ( UiPath Implementation) | [Project04](Automation%20Developer%20Associate/Project04) |
+|  | Project05 - RPA Challenge Solver ( UiPath Implementation) | [Project05](Automation%20Developer%20Associate/Project05) |
+|  | Project06 - CV Information Extractor (UiPath Implementation) | [Project06](Automation%20Developer%20Associate/Project06) |
+|  | UiPath Automation Developer Associate Training (All Practice Modules) | [UiPath Automation Developer Associate Training](Automation%20Developer%20Associate/UiPath%20Automation%20Developer%20Associate%20Training/) |
 
 ---
 
