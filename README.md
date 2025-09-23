@@ -74,6 +74,7 @@ Raya-RPA-Training/
 |  | Project04 - ACME Invoices Information Extraction ( UiPath Implementation) | [Project04](Automation%20Developer%20Associate/Project04) |
 |  | Project05 - RPA Challenge Solver ( UiPath Implementation) | [Project05](Automation%20Developer%20Associate/Project05) |
 |  | Project06 - CV Information Extractor (UiPath Implementation) | [Project06](Automation%20Developer%20Associate/Project06) |
+|  | Project07 - [Add your project description here] (UiPath Implementation, Orchestrator Deployment) | [Project07](Automation%20Developer%20Associate/Project07) |
 |  | UiPath Automation Developer Associate Training (All Practice Modules) | [UiPath Automation Developer Associate Training](Automation%20Developer%20Associate/UiPath%20Automation%20Developer%20Associate%20Training/) |
 
 ---
@@ -86,6 +87,7 @@ Raya-RPA-Training/
 * Applied **best practices in RPA solution architecture**, modular workflow design, exception handling, and robust error management.
 * Automated complex business scenarios using **UiPath Studio**, leveraging activities, selectors, data scraping, and custom components.
 * Integrated **Orchestrator** for scheduling, monitoring, and managing unattended robots.
+* Successfully deployed automation projects to **UiPath Orchestrator**, utilizing **assets**, **queues**, and advanced resource management for scalable enterprise automation.
 * Developed strong skills in **process documentation** (PDD, SDD), business analysis, and stakeholder communication.
 * Gained hands-on experience with **Python and C# scripting** for automation and data manipulation.
 * Practiced **secure credential management**, logging, and audit trail implementation in RPA solutions.
