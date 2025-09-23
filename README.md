@@ -74,7 +74,7 @@ Raya-RPA-Training/
 |  | Project04 - ACME Invoices Information Extraction ( UiPath Implementation) | [Project04](Automation%20Developer%20Associate/Project04) |
 |  | Project05 - RPA Challenge Solver ( UiPath Implementation) | [Project05](Automation%20Developer%20Associate/Project05) |
 |  | Project06 - CV Information Extractor (UiPath Implementation) | [Project06](Automation%20Developer%20Associate/Project06) |
-|  | Project07 - [Add your project description here] (UiPath Implementation, Orchestrator Deployment) | [Project07](Automation%20Developer%20Associate/Project07) |
+|  | Project07 - ACME Verify Account Positions Process (UiPath Implementation, Orchestrator Deployment) | [Project07](Automation%20Developer%20Associate/Project07) |
 |  | UiPath Automation Developer Associate Training (All Practice Modules) | [UiPath Automation Developer Associate Training](Automation%20Developer%20Associate/UiPath%20Automation%20Developer%20Associate%20Training/) |
 
 ---
