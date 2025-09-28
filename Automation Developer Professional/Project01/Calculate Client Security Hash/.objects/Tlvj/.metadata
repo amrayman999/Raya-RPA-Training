@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Use Edge Browser - SHA1",
+  "Type": "App",
+  "Id": "TlvjzcwfSUi5Tj4LrrPzig",
+  "Reference": "RvPiOnuKPk6ytxYDBrEs6g/TlvjzcwfSUi5Tj4LrrPzig",
+  "Created": "2025-09-25T22:23:59.7341364Z",
+  "Updated": "2025-09-25T22:23:59.7341364Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

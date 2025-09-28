@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click close downloads tab",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "ulR7dqGsgkCu7nmg37fHxA",
+  "Reference": "quA7Jr8jc0KKkT5-fM8hHQ/ulR7dqGsgkCu7nmg37fHxA",
+  "ParentRef": "quA7Jr8jc0KKkT5-fM8hHQ/4ovCepAZdk-Z1yIQAYEq1w",
+  "Created": "2025-09-26T18:20:37.8378431Z",
+  "Updated": "2025-09-26T18:20:37.8378431Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vf4Cqtc8GUyP8zzV9ep1bQ" Reference="RvPiOnuKPk6ytxYDBrEs6g/JYFBHJHqVk61DLlkqRogTw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/update/107416352" CVScreenId="5dbf5b22-9a17-4e53-89b7-836a024483fc" CvElementArea="293, 600, 278, 45" CvType="InputBox" DesignTimeRectangle="295, 601, 275, 42" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="[&quot;&lt;webctrl aaname='&quot; +in_strStatus+ &quot;'    tag='A'  /&gt;&quot;]" Guid="72f22ecd-fa7b-4494-9f00-87132d048f79" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5dbf5b22-9a17-4e53-89b7-836a024483fc" CvTextArea="292, 574, 107, 17" CvTextArgument="New Status:" CvType="Text" DesignTimeRectangle="295, 570, 106, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='New Status:' tag='LABEL' type='' class='' check:innerText='New Status:' /&gt;" Guid="122aef7d-73b0-483f-a936-1471ec470356" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b4e4347225a5b04c2adec01fc78a0466.png" xmlns="">0TY9jWW_NBU2EefHoYM0ohA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

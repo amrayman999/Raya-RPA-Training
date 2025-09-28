@@ -1,0 +1,199 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="_4_1_Gen_AI" VisualBasic.Settings="{x:Null}" sap2010:WorkflowViewState.IdRef="_4_1_Gen_AI_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:isactr="http://schemas.uipath.com/workflow/integration-service-activities/isactr" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uiascb="clr-namespace:UiPath.IntegrationService.Activities.SWEntities.CDC1420DE1B_v2_sub_generateChatCompletion_Create.Bundle;assembly=CDC1420DE1B_v2_sub_g.lVeeN38vliK1Zsmcip3v5W3" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>UiPath.IntegrationService.Activities.Runtime.Models.FilterBuilder</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.IntegrationService.Activities.Runtime.Models</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>UiPath.IntegrationService.Activities.Runtime.Helpers.TypeDetailsCustomization</x:String>
+      <x:String>UiPath.IntegrationService.Activities.Runtime.Activities</x:String>
+      <x:String>UiPath.Platform.Activities</x:String>
+      <x:String>UiPath.IntegrationService.Activities.SWEntities.C703FFF4920_v2_sub_deepRag_sub_summaries_Create.Bundle</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.Linq.Expressions</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Drawing.Common</AssemblyReference>
+      <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Net.Mail</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>UiPath.IntegrationService.Activities.Runtime</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.EventBasedAsync</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>C703FFF4920_v2_sub_d.p952p3D05kB13l5Sp2u5HVD3</AssemblyReference>
+      <AssemblyReference>CDC1420DE1B_v2_sub_g.lVeeN38vliK1Zsmcip3v5W3</AssemblyReference>
+      <AssemblyReference>System.Reflection.DispatchProxy</AssemblyReference>
+      <AssemblyReference>System.Reflection.TypeExtensions</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities.Design</AssemblyReference>
+      <AssemblyReference>System.Console</AssemblyReference>
+      <AssemblyReference>System.Security.Permissions</AssemblyReference>
+      <AssemblyReference>System.Configuration.ConfigurationManager</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.Private.Uri</AssemblyReference>
+      <AssemblyReference>System.Linq.Async</AssemblyReference>
+      <AssemblyReference>NPOI.Core</AssemblyReference>
+      <AssemblyReference>System.Collections</AssemblyReference>
+      <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
+      <AssemblyReference>System.Linq.Expressions</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="_4_1_Gen_AI" sap:VirtualizedContainerService.HintSize="814.4000000000001,644" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="x:String" Name="GeneratedText" />
+    </Sequence.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <ui:Comment sap:VirtualizedContainerService.HintSize="416,88" sap2010:WorkflowViewState.IdRef="Comment_1" Text="// Write your comments in the Text property" />
+    <isactr:ConnectorActivity Configuration="H4sIAAAAAAAACu1de3PbOJL/Kij/c8mWrdjOY7KpmtqSZTtWbMsaPZK72ZlKwRQkMaJIDh+y5VQ+zv1xn2O/2P0aACWAD1Fxnnvn2tqJzG40gO5Go7vRID/unLrCG8WtwE+464to59XHnb7gkTPl155QwJ1X//xzd6fth2myevBxp8PnYufVTo9PeuKvVMTJzu7OsRuHHl+WgkTsRG6YuIGvQEzDGICDZUgN4iRy/Qn+7gdRchWNaDiH1HTMUy95y72UsD4y9sfOOKLWvrN8Hwqfe8nyj51X7GCXQHN++z4JZsKP6dnz/X351F8jhJGI0VQUm4ZRMA8T+vuPnXdT15myIJpw373jNG42DTB5lkwF8wQfYagsDGJXglxfPh8Tf1gwZr3gOkhch3WjwBFxzJppEswVlUe9bvPxP/7YkT26PiadOgRQ3f5XkDIeCcZBchxEqg33GIa2cMER3S4R81BEPEkjQe32G8/V4yB8H8r5fFI8dydg98eddnzmjkYCv9Gb+LSrxH4ROJI8mHoJBrshj0hU7fhSJNNg1OURBJmQFFSrldDnwUh48nde5pcEYb4GWTIfgD8EAE9Z+5iYRByTpOjRSIResJwLP2FJwNIYzMRTQoEuJsyBZDwhSW3Ul+e7Oyd+OjdVdBIme8+CvcP9w2d7Bwf4Fy0yZSrCjGlq4Nz1XYWx/8vewcti6zyCSUIoYGN/b+zxeLq3v39gEigDG80dj6cjsfd07/leHPi+SIy23E+mURC6TqOAJQez/+Jwf29x8MqaUhF1cQiM7ake7B8eqjaf/jQ17CLgo6OlXqorNaM17kZipB4U1e63VETLrVROLc2CvnVXjwu6BhWKaNkAXqVKLFrZpw0q9aJ+HkfBaGmy2Y277faJTzZ0VBxzuw1tT4Rc9YWhv5uCExg5FoFCYoQ/xjzkDFwyw3paDcY0w2GVAjbmXiwa67lcBwHslG9P5pe8PZWtTEl2tU2T3HXnHAL6VDFjEpwENOVcID0s34LoXOB4kGkNS8YSSXHfZkl7zGIhzYLkPuP+UvNGjIg7T7pnbXbjeh67hkHh8QyPrwVkLtDOl4aa2oJ7FxeXDQZyatIWkRUB13c8KP4os+krXrd9BqM+ZQ6PRbwrYaUE+IK7Hs0zoxCkCYQGCp0gEXgCHXStKUmsv1LuuckyM4yqEaazlIOah5w6qhPvy1rxGvJSG7n6rYn2p8ENKPZSTyhoT4xli3LFbsctjEEuDN1RO34XRLOxF9yc3NJGG0sRamBGTI6N6NPk//z0JymLNQzsVuJ+w1Dr8/NGIZ/TMGDRNmj/A9OqmFZnDj3uT1I+ES1s9qVrP0MoNeQZMFsZ2qYrS8j9UbZUsJhih/vS2INoY7NV/3vRUWiOI3fGOdaFsR+OzYk051MeuY4Jn1vwiF/b4MgCxzF+xMJEiC2EOxFdc/cDfE4T587EOUq9CQYhV36GcT2xMIQ/gS0x4b4FD2I/194aRYsn3LPgDrfgd8KZmlCr9TvhxRbUUoVjTM0CjyzSrwVcXrNnKIwJjoSYGVDhmdATf+LZxOHxGvB+mO8cmmy2j5Mgxxh4XCbjeAx/wQSnJrgrothuPrYmd+r6uf7HrgXH9mkxdmxpTzuyG09szkHijt37xOLO6/QDvKvEVIuJNfwzcR2JGwM8tXh/5mIrNaHW2FtRANpW91Nr9GepX1DbqdV/M4L3n0OwdKcNtbThriWetj8KfGx0NsrIRHnDoQP2CvyQU0CEfDaFmYVwzu/4zBTDbGaBp3NYFwNq2Ydz7vscGm/ALQ09h89i9x1Y4DQaQQfYI/zAMvngPjZRLWaeL6PJ8s4EW6y84IEB86xeLtxkmmKlWAOBU281TxY5+MKEX8J+THi8NBDmlom65I6AsGwa81mexhL/n5sYlkZfBv4kyGnE3OLnJWk8FNWAR4U+TKhlD47AZVtX5hYTOyK0zaxvLZjjNLFWs28NvhNEN4I0jT06Cmbzf/23ZwrTtyRyNXJNnQmsOXRT/wN2HQMeWgrbBYssuxFa4+gi7ExMZQgtHnSxY6YTbPkC44z4nWsNE/HvUa8KXf3m+Qbdgdmgh7RITg0ia+69FN6bDbcUve8FC27uCfEsD85bldhiQB8jsKQYW/03vev8AOO/rPbYsnNwSz79G3DNhFr87d8IWtImfJFrPXXt4d2Y8AGfu54BTSzZD4QHaZhgS0MHU25STqYWMI1m9sgSa17D5WSamqYutVb4cBYho2gzJrVEM4xG5tBAywTeXVs7fWr5QG9dkVAuyVqcC3tDmiKfGYu9PkInz0VibmSg3k33puTnleAPIqT2VNKt0CCpT3qQV0lhyRDZh6uFiCKKZMyswUMU8RB6fcfQK3TdEz9BXgFOvZgEkSvif/7tz7IgTGZRHIW1LA3EglAno/PYlL91VvQpEONAW97JHC5lTsbMDxLKeCB5gySJgZslTSKxcAVsYU3UdrBfDNvI7ZaJtGyx6gc5zxzpvoQI5/FkbybuFE4kQx/XliMnH3fUU3NrNg4IDGzrsbmbjEYkXgMze2LGIXMkkAwU9bdpHHsXBpj+Mr3gLiv20u6W9HMMMTwZuDJXnyHSM/nIwPsN3iCpkIG2emTO7ajJIsTilG8rsA/AnoIVedh/1z4dIC0rkwNZA/lQJgysKAO7JTK4PDKtuXrawsMi7baPpKKfnaIccX9Gw2s6TpDipEHjG3wy0TW2Ri7SbkYT5Dtdn7NO1kEbhyzEF/bouNN+XKTf7GWoGWYJ2ZQ0HwdAGa3cdJuDrC1Nuaxlwm9167GrLEOJQAYDftu2kKqHIhuRWiHViWbs0dvm4HEZTflL4gGtgh4FcQxO1YxxLYYioSHxvprxGRlkZNOY9u24lIaGbRpHC7kkyicXJTXUoE2tR5GLPf4/YobYGweOpv42h8cSGF8o0CYyc+ivA+3ZwI9LhVLPEhbyOA5hMcuodDVsU3tSHuTiS0xgcwihIpdfMpcj4U3cdI4DPr0QCo2PTjLN37o1e3u4gQCAJSS21NSjkxpNVbEODnoRwDC9DvWoHrU63TdmUHPUuyA0tc9Wkmp1T0vG0cPjyiZrs3LMaK3j7Pi13fHKmhz3XtspPMoz1KyyVnPjKtM08jpeRqdO1TWpqcB5+xR+QLQAZhmhM4nRVwiVdKpVvNWsVnHdWO36YKrqS5vslaFU7RC9nrU7j23KuqFqZzcr6ScOkI7zkKaO04ij3KBssH2J085QSsaM4E/YO0EJnQtzQyglgj2qh7CF0NZ7lFKpbq9VskBanQx/M+2TIQ7BrvWeXCRzMjwmaHXbWuUChRrlApnX3T78hwDZMZgQ+Mhmc8BaBshuuLI4ddvlydDeuKv3TFCt1s+TDSYYDZU+sL5w0ogklCljv995TE42HUMvuCeleGyRVS2zhqXEyRxWKPvA1vUTMvR18zxVWl0vwdNenQQ1KW0eNqyY055efNUrRtPyDdMpVRNWu23O8dSwnSXtq0V42qsWoW5cJcZ2p39yYg+iTm6aYqVHxx6hzb/+JwpYv5ub3/Yy3HLTPO3VbJrq9IYdZyqhBV50ro5P6lRCkVrmjFUJoc3mKSNTLc7jk2pxZq0rV45FZwt+ZwTzDC+htmZ1kcwZEt/snP6Ts+Vn5+3jkqjjbJjtXXUDVKc0asY5fSuhusWMM4K1Mz4bbpoxjnbgmnYl+8j62QEcNrGmZcDanRWqxiwSG/ouDvPycn3U5KMp51EJF9sd1aRuyqtjqLx0zgfdMrLHm1W4HQkcxo7Wfks3vYathXVRXtSjbrdfRvYka6DwK32qz6HPFofbdmG75+044sJyaE06F+WmWDciJ3VDxH6x0YmlM8Nl0SLZ/Q/qrJGicuqivgCOvJ2oaA/U83yuQh411gz+TXfj4BWJenP6pls3AUXpcr0VhVpy5qp5073UO1Am140kWkEEswmnqpzGClwksnJFezgBo7iz3MC069IJFjWoavke8aa7wihfYYqM3rRXrsXa+bKdozfdWq/9Ir0V8+sgjSb5zFDB8wIcVFDfKzkemx1dbHQ5dcP7dhv4e/69u8aPYu84S03yJq8gi0srd1XknCKyzX57KfNXx0USHXHDfoeXSDZt8+rr/L5x9ZmE6tdg5/e6NWjSa/vyn57A4WRaSk1haITNxC5xzoZVJEsHdVBbQjDDuhornM009WpAMc+YytFL6CkMjVAk1qVjyzCkBBxttXQAx2SV+V43hWGQNrhItnumcSWqxiyTcna4zFo4rLsTfoW+dQcaXq5uKyrbaFx3m4xpH0nuKaNKMofXUvy9uR05WRayrdU872WIJl4J6RDnswxpajPw69PfBaRNYanVui6aUeS2YfZJfxtm37jI/FaMrnn21sxnnNWNbcDdG2wD5S7K4F25i6IbrUTTEpEeMBynZq/1ZID/mDwavMtwDdQSillQUuTM4F11wDJsnDe2sFXD8zpbJQmtWKGNysoj7JyVeZzD86xBlYGxqRZ32k67c/W4lOKGzVYS1c48dCbkS5DCmamgarrSySvkDLeMYr+xrc4Pa3VeUttCJv16mYAQkkBywtX6MewPzzdpCIhQALRwRyg4X3OswlFo51JDw/66cda2OhWq555O2AndZnKEvN/TxLGZQ0dkJ80SNSJ0A1shV0xk8/4+7Jfs71YBRzuW+0xfeMJZFXA8VHU8FNT/5FUdTuCPVUQzmIIwXUwsK+lgazwWO3AiSss66AraHEdneWR5O4puPdE9FiTQ1aUkeU1lvGQ8lpdeyFeU5RsjeT9lXb2xSrSZ1RsHmJq81AiEUYCkgRqReWFlv/HL84f7Kve5r4ItKPBHDzdWvsYCM+7lFhZWfxknYq6voZSuqNjEkMVRAepKbunOyopsdpvlXlcSD4rXotcXh6fCC8cpqglgcOKEqhbvfb3vCnGTv+Bx4U5fEoTnBcYMgpDNCgxpZicV1yK5EYjUDqTReLaPwjBi1tSdyPuOdD1YISb2U7gbdLFCXY2DN0D3nmGUiKEN6wIkSK7Z5oLjk4IBemoYIGA8pXSmzUgQ2f969+XMm9Jfelmu6jLx9heB73PVrmIG99nhSm9iV9yh/qbm7UEqXyaVLdwTWp2vUQ0or98WLEVL28OJiWFZDdXWvu+3MqNY667vICcSr6/Nkk1BpQuiRCd3h1baGTdmYyHfl0AVqMFNLO+HS7MBo4xQnLoJUZKa0GnVqqrMCyY4CiHaMz+4gZ83oVu9+jbx+mYw3ealEEKMdjVduogYrYJQ/HEVOVPYddgu7AdHqTMTCbuBiYN9C5yUIp2YTflCwEzCRqahh9pyWDkgq98w7LIqawSPzElwGkHXHKlSNUG1JnVaVzn7rLBlII9Lq3pVT2s9J3GukjG32EiobtL1R+LWAlE5GCYaI+vsiFx09dVvkhMDCrpEIyhuOo4jQnCUgPETt6cHSF4rZCGvjja0VtAEsipksBE6F2i9LNe+XWhHolpQUTNaUQIdDKKmJFA+Rg1pQ3bNVh1PqWf2fB8n0VAhiDCYQ+YkYc+do3zm0dP9y6PHSDukIQXueK7e/hG/Yt3j0132pn/V2WWt/ttddnzV6u+ywX8ODIlrzpjy/opedMl6/uLNzFac++xMm0d1rw0qp+i7aimUDW71Roifjm1Xukr/p2XdPbTtR6nPD9CQHynyz5nuN3pXwoOpeTA1D6bmwdTkTM2Xva9sjPyoiM7FsuA8Wl75qUTD0UoyLTiUFqKiJx1CuuNK7xeSr2aCiSTvMQtTtBd540p6m3zzF3TqEMzSkHy1q+sP8PCtoVNFs0JYnfLKycihvtp5kseixmrvSD1v+ZtM2eJQXdKEgam7wrrZhP8o1ye3F/1Evo+9Q39d1+d7sO0HeNpbs+yruVHfUX2+r4b8MJF/xjTv6S0+mJoHU/Ngah5MzWeamvu/ZhTnWt3Sc62w/lxrX+aJD/SxFjZC61RLvTAS1pZeS0o/Uc40CuaUZbZPsfYbLxs1x+i/bHOMLl8F+XCK9XCK9XC2eL9TLOk8ySpQ2xy0dSrMNgedwqutV/Fg2WlCTUD4sjIglFRFMSDU79zOIkKN9o9V6Pvrx9XPT8U40f8qkWGd82rG4V8c1/ztXn5txRBqY5h7RibfYcY/W8x7T1dfjuYbsfLKz2gNwxHVW1cGMOUsftDrB73eZsdYf3qisGlc8ltZZKnATN1JLa3G1IjauaS9RDWhjUQXP2UvFl+XjWmnU6Iq4tRyicWZbTmhl9K3K+jizepl8lgnsO1PjOozlC3Qoba4dYQ6zmYLeXFXf35CnkrjsTw3By9QSp6gqP2avuNBr1+mV5oTUDXCE3odunR66bXnvvHFh2yaaqxxQCfzwJcVEHGArTQKMMjsvf16Dsb0aiu9/m5Xer14VlUFV6wr+pw6uPV3OIphgw0rSFoxKSsDRN1A4i6okmWMSlqq7YhYzOndhZReXpPSX8dosDNVISepxGwuOOnIir+yPiHhM/qbSnndeIY4Y4Dalv3G3yVf5XPdrVSFEHYZlGS5YqYQMb1tf4TQ5hEsKTLbqJ2BEvBoAvmthvc4q0Wh17klU0j8Rnje3kiMUUQjS1hkX+IWEwO5GIGR1lel0N66HkJdPnDVO+ToewC7a20dKVdEzZjCKaBp/eikjieg330akeasqtOQJRr01n7FJzvUOtgcZx3ubxNn7X8LvSp836ZY9pJhMAPD9kjt8JTqBqUw8W+DqYFC8Fp/JBH3DtGquMkszjXqqyA+uWzdCPLTWcXV4DI7JE87oB5jDnmNhKzMyk5FpDrK14PMhOdOg0AW2EQihOJJBHolOqCoZEKZ5zUYNM/FwzUr/fCgdKV/ByEpnbkao8iHBlsQkRYAVni0xrC/bAFvjC6AqZXr5/G1BY0EFj5WUp3NOzys5cTTr1nc+mPO6v8NnLFv4G7/36y7eJBl7ftbcx8rKxiZrkb4DtvATfZpoqlAvW0ICx6V7gC6NnfzDpBwb8b4NUp0dV8oYM9nQuvs3dMfZvlLKprXPvQ0cB2xycdfG3qn2Mz08zP/V18KoZJV62qE4UJmLrnKM0uHy95TsjCC7ptI73ACb50KXpWLN5VKJAFq9yHR8qwzJ4hR+AoBJ9mXtXwECNkGxW/o5okcBhEHKQoFpK9QMcpKP6xc0M9qBX3wbQQtP6j3LQ8ExkI+VbIhLmKwdD8cZvczefT8c3n0M92h+LwrCD/0DsvXuITzb3Kz5f+fVOq24xgGoWAO+ngIgydjomKoPwzl3bQVQqyvfdDqb3b1Z+OIbmb2ZYiVRvorgGQYlN3PwgC12a4uIOgqNBVLmSOx7YePSrCaKyKHL76FCb3dS1Gpl0z33HgvTtDK2UuEJ3D+Gi33UMLH53vIC8jUh1YGm7ukUzIvkkFzFz0MqNovM+Ilk82P/Uxwmvk2J8PmNCJs7O5c5OdRjAB7CpENMkQUF2aI9gdxqxG/eA5Q6yt5Ear49V7SpMKgGW1v9j3LUi9moAA1dY3ZJ4DXa1clmtY5ePV3K5XdVX1hU81gk56pDz/qQeWTr/KbkBUzyXwSSkpIZ5oWTO5Tm3rNyldJBgm97kJ9BoEhYwUnCclLeW0LFDz6spHKg+lPUcpHU1WhWXdJ65fvyLA3bvJ+cfjqVSbqFpy3tRtb4uHC7UCu9rW2UiXfLl1PbujSQWSDXqc/Ucj65TENvWBd5OL67+Qrs+ln67h18Oxw//jk4Ahjeh+n1+/Lh/W+RRlL0ThCmOqJxja4u6yMesN7K0Tn6cuF554f/B7PHTd8unj+7ukue0vXuQL/V7hL9D80hw1F5vVXX6T0jvRd/YZEpBgGZJ5/JdO6Uy+4LSVECxmikdgFmeXD9JZLFhW99DNtygktg2NrKP22Ki3kwm1M5hSb5bV2m0//fkM1prPqtk/X2x2xMngAftzR4kNbKUA0xfx8HKAHMin0akfbcf0Pd6MRXVrPNpLsOFIPa9c+fd+4Xs6SJFQmmOJyREy0XdJcKKKWPt1qk6tYTi2OKvORcbBPM/qUPT+KghuEXm2cBujnOv2DeemvtHe5M+MTYfLg4KXNhOz9OXKFUvfNNlsvShPTpPICxwYrZmxhGLbn2pU82VD9qAVbYOVVf2CUNiwOn1QSu8g+JCq//bhLx25d/NmHACifj/jnjMdH6IU+7IHW/oRYrFWU9o4jL3Bmkpmf/helvSauHX8AAA==" ConnectionId="637891fa-dd75-48da-99d4-9fdc1420de1b" DisplayName="Content Generation" sap:VirtualizedContainerService.HintSize="416,424" sap2010:WorkflowViewState.IdRef="ConnectorActivity_1" UiPathActivityTypeId="aba52a00-4c05-318d-8f99-5ad924b2f277">
+      <isactr:ConnectorActivity.FieldObjects>
+        <isactr:FieldObject Name="modelName" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <InArgument x:TypeArguments="x:String">gpt-4o-2024-11-20</InArgument>
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+        <isactr:FieldObject Name="prompt" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <InArgument x:TypeArguments="x:String" xml:space="preserve">Generate a short story, approximately 800-1200 words, about a software engineer's journey to success. The story should be inspiring, relatable, and feel authentic to the world of software development. </InArgument>
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+        <isactr:FieldObject Name="isPIIEnabled" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <InArgument x:TypeArguments="x:Boolean">False</InArgument>
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+        <isactr:FieldObject Name="isFilterPIIEnabled" Type="FieldArgument" />
+        <isactr:FieldObject Name="languageCode" Type="FieldArgument" />
+        <isactr:FieldObject Name="piiEntityCategories_array" Type="FieldArgument" />
+        <isactr:FieldObject Name="confidenceThreshold" Type="FieldArgument" />
+        <isactr:FieldObject Name="topK" Type="FieldArgument" />
+        <isactr:FieldObject Name="contextGrounding" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <InArgument x:TypeArguments="x:String">None</InArgument>
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+        <isactr:FieldObject Name="_file" Type="FieldArgument" />
+        <isactr:FieldObject Name="folderKey" Type="FieldArgument" />
+        <isactr:FieldObject Name="topP" Type="FieldArgument" />
+        <isactr:FieldObject Name="indexID" Type="FieldArgument" />
+        <isactr:FieldObject Name="numberOfResults" Type="FieldArgument" />
+        <isactr:FieldObject Name="top_p" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <InArgument x:TypeArguments="x:Int64">1</InArgument>
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+        <isactr:FieldObject Name="instruction" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <InArgument x:TypeArguments="x:String">You are a helpful assistant</InArgument>
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+        <isactr:FieldObject Name="max_tokens" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <InArgument x:TypeArguments="x:Int64" />
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+        <isactr:FieldObject Name="temperature" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <InArgument x:TypeArguments="x:Double">0</InArgument>
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+        <isactr:FieldObject Name="frequency_penalty" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <InArgument x:TypeArguments="x:Int64">0</InArgument>
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+        <isactr:FieldObject Name="presence_penalty" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <InArgument x:TypeArguments="x:Int64">0</InArgument>
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+        <isactr:FieldObject Name="n" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <InArgument x:TypeArguments="x:Int64">1</InArgument>
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+        <isactr:FieldObject Name="_stop" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <InArgument x:TypeArguments="x:String" />
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+        <isactr:FieldObject Name="out_text" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <OutArgument x:TypeArguments="x:String">[GeneratedText]</OutArgument>
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+        <isactr:FieldObject Name="out_maskedText" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <OutArgument x:TypeArguments="x:String" />
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+        <isactr:FieldObject Name="Jit_v2_sub_generateChatCompletion" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <OutArgument x:TypeArguments="uiascb:v2_sub_generateChatCompletion_Create" />
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+        <isactr:FieldObject Name="out_contextGroundingCitationsString" Type="FieldArgument">
+          <isactr:FieldObject.Value>
+            <OutArgument x:TypeArguments="x:String" />
+          </isactr:FieldObject.Value>
+        </isactr:FieldObject>
+      </isactr:ConnectorActivity.FieldObjects>
+    </isactr:ConnectorActivity>
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,108.8" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[GeneratedText]" />
+  </Sequence>
+</Activity>

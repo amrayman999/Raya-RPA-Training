@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click Upload",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Bjfrsha-YE29bmhO3CCPxA",
+  "Reference": "quA7Jr8jc0KKkT5-fM8hHQ/Bjfrsha-YE29bmhO3CCPxA",
+  "ParentRef": "quA7Jr8jc0KKkT5-fM8hHQ/PIZJO1eaJ0aLc4_Dfw0AnA",
+  "Created": "2025-09-26T19:04:46.9904956Z",
+  "Updated": "2025-09-26T19:04:46.9904956Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

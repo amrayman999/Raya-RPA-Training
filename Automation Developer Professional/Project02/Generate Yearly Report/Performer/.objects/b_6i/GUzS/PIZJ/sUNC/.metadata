@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Select Year Item",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "sUNCdD8-NkGec_O8aCfy0Q",
+  "Reference": "quA7Jr8jc0KKkT5-fM8hHQ/sUNCdD8-NkGec_O8aCfy0Q",
+  "ParentRef": "quA7Jr8jc0KKkT5-fM8hHQ/PIZJO1eaJ0aLc4_Dfw0AnA",
+  "Created": "2025-09-26T19:03:44.5132345Z",
+  "Updated": "2025-09-26T19:03:44.5132345Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

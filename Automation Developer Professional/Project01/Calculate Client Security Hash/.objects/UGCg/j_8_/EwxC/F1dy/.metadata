@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Check Logged In",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "F1dyc0hYuE6lxMIoPouBjg",
+  "Reference": "RvPiOnuKPk6ytxYDBrEs6g/F1dyc0hYuE6lxMIoPouBjg",
+  "ParentRef": "RvPiOnuKPk6ytxYDBrEs6g/EwxCEwdgBU-aHmobBhQJMA",
+  "Created": "2025-09-25T20:49:50.1512322Z",
+  "Updated": "2025-09-25T20:49:50.1512322Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

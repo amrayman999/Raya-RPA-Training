@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Use Edge Browser",
+  "Type": "App",
+  "Id": "KFP16TwRyESTAsO_hCx8bg",
+  "Reference": "RvPiOnuKPk6ytxYDBrEs6g/KFP16TwRyESTAsO_hCx8bg",
+  "Created": "2025-09-25T20:45:01.392904Z",
+  "Updated": "2025-09-25T20:45:01.392904Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

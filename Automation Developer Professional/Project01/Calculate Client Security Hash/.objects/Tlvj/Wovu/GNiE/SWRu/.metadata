@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type Hash Formula",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "SWRuVxWC-UGs_bycF8-osQ",
+  "Reference": "RvPiOnuKPk6ytxYDBrEs6g/SWRuVxWC-UGs_bycF8-osQ",
+  "ParentRef": "RvPiOnuKPk6ytxYDBrEs6g/GNiE9PN1i0CdPFC2v-SOIw",
+  "Created": "2025-09-25T22:31:20.5655175Z",
+  "Updated": "2025-09-25T22:31:20.5655175Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

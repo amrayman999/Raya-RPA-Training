@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click Hash Button",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "96-1n7Lbf0GumiZ0yxJ30Q",
+  "Reference": "RvPiOnuKPk6ytxYDBrEs6g/96-1n7Lbf0GumiZ0yxJ30Q",
+  "ParentRef": "RvPiOnuKPk6ytxYDBrEs6g/GNiE9PN1i0CdPFC2v-SOIw",
+  "Created": "2025-09-25T22:32:42.6585453Z",
+  "Updated": "2025-09-25T22:32:42.6585453Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type Comment",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "e79jbyT0vE2TH84J9ZU-sw",
+  "Reference": "RvPiOnuKPk6ytxYDBrEs6g/e79jbyT0vE2TH84J9ZU-sw",
+  "ParentRef": "RvPiOnuKPk6ytxYDBrEs6g/E9cfVkItU0Gwmxw_FUMf0w",
+  "Created": "2025-09-25T22:12:04.7536483Z",
+  "Updated": "2025-09-25T22:12:04.7536483Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

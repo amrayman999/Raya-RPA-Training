@@ -28,14 +28,16 @@ This space showcases my **professional growth** and serves as proof of expertise
 
 ## 🏆 Credentials & Certificates
 
-| Certification                                             | Provider   | Status      | Location |
-| -------------------------------------------------------- | ---------- | ----------- | ------------ |
-| 🎓 Python (Basic)                                        | HackerRank | ✅ Completed | [python_basic certificate.jpg](Certificates/python_basic%20certificate.jpg) |
-| 💻 C# (Basic)                                            | HackerRank | ✅ Completed | [c_sharp_basic certificate.jpg](Certificates/c_sharp_basic%20certificate.jpg) |
-| 🤖 UiPath Automation Developer Associate Certificate      | UiPath     | ✅ Completed | [UiPath Automation Developer Associate Certificate.png](Certificates/UiPath%20Automation%20Developer%20Associate%20Certificate.png) |
-| 🤖 UiPath Automation Explorer Certificate                 | UiPath     | ✅ Completed | [uiPath Automation Explorer Certificate.png](Certificates/uiPath%20Automation%20Explorer%20Certificate.png) |
-| 🤖 UiPath Automation Infrastructure Engineer Professional with Windows Training | UiPath | ✅ Completed | [UiPath Automation InfraStructure Engineer Professional with Windows Training.png](Certificates/UiPath%20Automation%20InfraStructure%20Engineer%20Professional%20with%20Windows%20Training.png) |
-| 🤖 UiPath Business Analyst Associate Certificate          | UiPath     | ✅ Completed | [UiPath Business Analyst Associate Certificate.png](Certificates/UiPath%20Business%20Analyst%20Associate%20Certificate.png) |
+| Certification                                             | Provider   | Status      | Local File | Real Certificate Link |
+| -------------------------------------------------------- | ---------- | ----------- | ---------- | -------------------- |
+| 🎓 Python (Basic)                                        | HackerRank | ✅ Completed | [python_basic certificate.jpg](Certificates/python_basic%20certificate.jpg) | [View](https://www.hackerrank.com/certificates/24619430792b) |
+| 💻 C# (Basic)                                            | HackerRank | ✅ Completed | [c_sharp_basic certificate.jpg](Certificates/c_sharp_basic%20certificate.jpg) | [View](https://www.hackerrank.com/certificates/d7f5a9c5863f) |
+| 🤖 Druid AI Certificate  1                                | Druid AI   | ✅ Completed |  | [View](https://academy.druidai.com/mod/certificate/view.php?id=87&action=get) |
+| 🤖 UiPath Automation Developer Associate Certificate      | UiPath     | ✅ Completed | [UiPath Automation Developer Associate Certificate.png](Certificates/UiPath%20Automation%20Developer%20Associate%20Certificate.png) | [View](https://credentials.uipath.com/5532ab64-c00a-43ab-8a5d-ebab8736cca0#acc.DhxRmZev) |
+| 🤖 UiPath Automation Developer Professional Certificate               | UiPath     | ✅ Completed |  | [View](https://credentials.uipath.com/ddef0ba7-a219-444b-a082-124f919d335f#acc.13gULFm8) |
+| 🤖 UiPath Automation Explorer Certificate                 | UiPath     | ✅ Completed | [uiPath Automation Explorer Certificate.png](Certificates/uiPath%20Automation%20Explorer%20Certificate.png) | [View](https://credentials.uipath.com/67a1dd0c-cd30-4aba-809b-a6c065797b12#acc.vQJeH8qm) |
+| 🤖 UiPath Automation Infrastructure Engineer Professional with Windows Training | UiPath | ✅ Completed | [UiPath Automation InfraStructure Engineer Professional with Windows Training.png](Certificates/UiPath%20Automation%20InfraStructure%20Engineer%20Professional%20with%20Windows%20Training.png) | [View](https://credentials.uipath.com/27024eff-cd74-4e19-8cd7-e61119b39ffc#acc.hJruzDnF) |
+| 🤖 UiPath Business Analyst Associate Certificate          | UiPath     | ✅ Completed | [UiPath Business Analyst Associate Certificate.png](Certificates/UiPath%20Business%20Analyst%20Associate%20Certificate.png) | [View](https://credentials.uipath.com/5e4872cf-068f-4b28-9cb2-39ba9599ad14#acc.L2wpb4HO) |
 
 ---
 
@@ -44,10 +46,14 @@ This space showcases my **professional growth** and serves as proof of expertise
 ```bash
 Raya-RPA-Training/
 ├── .NET Programming/
-├── Business Analysis/
-├── Python Programming/
 ├── Automation Developer Associate/
+├── Automation Developer Professional/
+├── Business Analysis/
+├── Certificates/
+├── Infrastructure, Network and Security/
+├── Intro To AI in UiPath/
 ├── Other Materials/
+├── Python Programming/
 └── README.md
 ```
 
@@ -75,7 +81,10 @@ Raya-RPA-Training/
 |  | Project05 - RPA Challenge Solver ( UiPath Implementation) | [Project05](Automation%20Developer%20Associate/Project05) |
 |  | Project06 - CV Information Extractor (UiPath Implementation) | [Project06](Automation%20Developer%20Associate/Project06) |
 |  | Project07 - ACME Verify Account Positions Process (UiPath Implementation, Orchestrator Deployment) | [Project07](Automation%20Developer%20Associate/Project07) |
-|  | UiPath Automation Developer Associate Training (All Practice Modules) | [UiPath Automation Developer Associate Training](Automation%20Developer%20Associate/UiPath%20Automation%20Developer%20Associate%20Training/) |
+| Automation Developer Professional | Project01 - Calculate Client Security Hash (REFramework) | [Project01](Automation%20Developer%20Professional/Project01/Calculate%20Client%20Security%20Hash) |
+| Automation Developer Professional | Project02 - Generate Yearly Report (REFramework, Dispatcher & Performer) | [Project02](Automation%20Developer%20Professional/Project02/Generate%20Yearly%20Report) |
+| Intro to AI in UiPath | AI in UiPath Tasks (AI Center, Document Understanding, Communication Mining, Generative AI) | [AI_in_UiPath_Tasks](Intro%20to%20AI%20in%20UiPath/AI_in_UiPath_Tasks) |
+|  | UiPath Automation Developer Associate Training (All Practice Modules) | [UiPath Automation Developer Associate Training Tasks](Automation%20Developer%20Associate/UiPath%20Automation%20Developer%20Associate%20Training/) |
 
 ---
 

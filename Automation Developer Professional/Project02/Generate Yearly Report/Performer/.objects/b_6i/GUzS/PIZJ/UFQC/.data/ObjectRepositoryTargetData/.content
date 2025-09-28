@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qPrD2JvMakKErMpLxCbgMw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/upload" CVScreenId="5c74749d-aba6-4e4b-abcb-412786a2c58d" CvElementArea="341, 732, 153, 47" CvTextArea="357, 747, 119, 20" CvTextArgument="Upload Report" CvType="Button" DesignTimeRectangle="344, 734, 148, 42" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='buttonUpload' tag='BUTTON' type='button' class='btn btn-primary' aaname='Upload Report' check:innerText='Upload Report' /&gt;" Guid="5f3e6b42-d921-4aa4-94c1-35c3408e9ba4" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Upload Yearly Report' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5c74749d-aba6-4e4b-abcb-412786a2c58d" CvElementArea="341, 671, 180, 46" CvTextArea="357, 686, 145, 16" CvTextArgument="Select Report File" CvType="Button" DesignTimeRectangle="344, 673, 175, 42" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='                                                  Select Report File                     ' tag='LABEL' type='' class='btn btn-default' check:innerText='Select Report File' /&gt;" Guid="f69d04f6-0a63-4974-8649-8efddf93ff9b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ac9c5c498b58d0204fcc117f29f9e1b0.png" xmlns="">07lUZoTxq5UKd2_6VwD_RGg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

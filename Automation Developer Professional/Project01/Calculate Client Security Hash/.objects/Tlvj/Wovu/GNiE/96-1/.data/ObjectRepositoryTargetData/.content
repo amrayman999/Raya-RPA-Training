@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="f3A7kMpeqk6Dm8qLAqFmMQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sha1-online.com" CVScreenId="9734500f-e1a4-431b-ae38-9bd5a87c66ae" CvElementArea="1130, 382, 60, 29" CvTextArea="1141, 389, 38, 15" CvTextArgument="hash" CvType="Button" DesignTimeRectangle="1133, 383, 57, 27" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='submit' class='' aaname='hash' check:text='hash' /&gt;" Guid="de4a7385-9c0f-4c3b-9096-d4336a0e083d" ScopeSelectorArgument="&lt;html app='msedge.exe' title='SHA1 online' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dc0e9a865d89bfa9138fa1f73b2a5efa.png" xmlns="">0fV_EkfBB3EyrYtJdEF3NXQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

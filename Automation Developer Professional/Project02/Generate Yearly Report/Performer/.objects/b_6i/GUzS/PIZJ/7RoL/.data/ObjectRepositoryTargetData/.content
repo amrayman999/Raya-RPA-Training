@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tJPkezkIAUO4qsER6GhnAg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/upload" CVScreenId="a99d03a7-5ade-4d99-9ad3-c84f06162a86" CvElementArea="693, 535, 111, 34" CvTextArea="730, 545, 37, 17" CvTextArgument="Open" CvType="Button" DesignTimeRectangle="695, 537, 110, 33" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Open' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Open' role='push button' automationid='' check:text='Open' /&gt;" Guid="05766364-b780-4ad0-ae8e-754a402d4dcc" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='#32770' title='Open' /&gt;" SearchSteps="Selector, FuzzySelector, CV" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a99d03a7-5ade-4d99-9ad3-c84f06162a86" CvElementArea="526, 535, 154, 33" CvTextArea="534, 545, 137, 17" CvTextArgument="Upload from mobile" CvType="Button" DesignTimeRectangle="528, 537, 152, 33" ElementType="Button" FullSelectorArgument="&lt;ctrl name=' Upload from mobile ' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name=' Upload from mobile ' role='push button' automationid='' check:text='Upload from mobile' /&gt;" Guid="0a21b41e-d9c6-46f2-9b0e-db62e8079083" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="406c51fd42e46aee3283d09579fdb395.png" xmlns="">0iS5wmfMMPkKWViafz6e9Bw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

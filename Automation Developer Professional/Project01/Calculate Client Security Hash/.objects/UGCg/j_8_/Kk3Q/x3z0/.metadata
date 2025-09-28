@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click Logout Button",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "x3z07vGXE0uz6rJ2VCvt_g",
+  "Reference": "RvPiOnuKPk6ytxYDBrEs6g/x3z07vGXE0uz6rJ2VCvt_g",
+  "ParentRef": "RvPiOnuKPk6ytxYDBrEs6g/Kk3QVxcQIE-rFNySo3nHoA",
+  "Created": "2025-09-25T21:00:49.0400263Z",
+  "Updated": "2025-09-25T21:00:49.0400263Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

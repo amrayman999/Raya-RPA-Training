@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mF8w6N4ilEacNUWnZb_3Vg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/download" CVScreenId="20635a29-6927-43b4-a61c-bc9c4aa97d9d" CvElementArea="627, 46, 46, 45" CvType="Button" DesignTimeRectangle="630, 48, 43, 43" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Loading' role='progress bar' /&gt;&lt;ctrl name='Address band' role='tool bar' /&gt;&lt;ctrl name='Go to &amp;quot;C:\Users\amray\OneDrive\Documents\UiPath\Save RandomWeath*' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Loading' role='progress bar' /&gt;&lt;ctrl name='Address band' role='tool bar' /&gt;&lt;ctrl name='Go to &amp;quot;C:\Users\amray\OneDrive\Documents\UiPath\Save RandomWeath*' role='push button' automationid='' check:text='Go to &amp;quot;C:\Users\amray\OneDrive\Documents\UiPath\Save RandomWeatherInfoToTxtFile&amp;quot;' /&gt;" Guid="3ed180bd-5970-40f1-954f-7126cfa14285" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='#32770' title='Save As' /&gt;" SearchSteps="Selector, FuzzySelector, CV" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="20635a29-6927-43b4-a61c-bc9c4aa97d9d" CvTextArea="209, 60, 373, 18" CvTextArgument="e\Documents\UiPath\Save RandomWeatherInfoToTxtFile" CvType="Text" DesignTimeRectangle="182, 48, 448, 42" ElementType="DropDown" FullSelectorArgument="&lt;wnd aaname='Loading' cls='msctls_progress32' /&gt;&lt;wnd ctrlid='41477' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Loading' cls='msctls_progress32' /&gt;&lt;wnd ctrlid='41477' /&gt;" Guid="5dbfac04-9bed-4883-9646-b26290ae9865" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d57b1bc356168f99836abf298a2ad38c.png" xmlns="">01AMsVzJgS0mYRKpZOkpWTg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

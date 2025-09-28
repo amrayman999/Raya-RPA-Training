@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Select Current Month",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "WYm_fUL5rEqDnXVk0JHMPQ",
+  "Reference": "quA7Jr8jc0KKkT5-fM8hHQ/WYm_fUL5rEqDnXVk0JHMPQ",
+  "ParentRef": "quA7Jr8jc0KKkT5-fM8hHQ/4ovCepAZdk-Z1yIQAYEq1w",
+  "Created": "2025-09-26T17:38:56.830241Z",
+  "Updated": "2025-09-26T17:38:56.830241Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

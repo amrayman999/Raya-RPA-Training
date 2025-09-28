@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="E4ti3UTQvEyiu0FmKAuNOg" Reference="RvPiOnuKPk6ytxYDBrEs6g/e79jbyT0vE2TH84J9ZU-sw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/update/107416352" CVScreenId="5dbf5b22-9a17-4e53-89b7-836a024483fc" CvElementArea="289, 481, 1356, 71" CvType="InputBox" DesignTimeRectangle="295, 453, 1348, 67" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='newComment' tag='TEXTAREA' type='text' class='form-control' aaname='' /&gt;" Guid="54136f56-9079-489a-86dd-c7052ef9d9a2" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5dbf5b22-9a17-4e53-89b7-836a024483fc" CvTextArea="292, 457, 145, 16" CvTextArgument="Add Comments:" CvType="Text" DesignTimeRectangle="295, 421, 143, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Add Comments:' check:innerText='Add Comments:' /&gt;" Guid="cd7fb802-f40a-46bf-89c4-894273d8843e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="70915c0fb06daf9e9aed4828343a4db1.png" xmlns="">0G6GzKD2BTUS1lJpLkVaxaA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

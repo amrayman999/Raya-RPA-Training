@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click Ok in Popup",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "otiUebWqsE6Js142cNMQ7w",
+  "Reference": "RvPiOnuKPk6ytxYDBrEs6g/otiUebWqsE6Js142cNMQ7w",
+  "ParentRef": "RvPiOnuKPk6ytxYDBrEs6g/E9cfVkItU0Gwmxw_FUMf0w",
+  "Created": "2025-09-25T22:16:04.4817047Z",
+  "Updated": "2025-09-25T22:16:04.4817047Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

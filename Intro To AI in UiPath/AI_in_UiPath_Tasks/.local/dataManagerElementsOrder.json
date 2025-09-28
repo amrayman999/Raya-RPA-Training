@@ -1,0 +1,71 @@
+{
+  "Workflows": [
+    {
+      "Path": "1_AI_Center/1.2_AI_Center_DocProcessing.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strEndpoint&Sequence_1",
+        "strAPIKey&Sequence_1",
+        "strFilePath&Sequence_1",
+        "duTaxonomy&Sequence_4",
+        "docText&Sequence_4",
+        "DOM&Sequence_4",
+        "ExtractionResults&Sequence_4",
+        "Dataset&Sequence_4",
+        "ClassificationResults&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "2_Document_Understanding/2.1_IDP_DU.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "CreatedValidationTask&Sequence_1",
+        "ExtractedResults&Sequence_1",
+        "strFilePath&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "4_Generative_AI/4.1_Gen_AI.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "GeneratedText&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "3_Communication_Mining/3.1_ComsMining.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "PredictionResults&Sequence_1",
+        "Record&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

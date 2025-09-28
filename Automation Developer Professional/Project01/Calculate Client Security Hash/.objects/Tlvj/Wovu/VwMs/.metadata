@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Use Edge Browser - SHA1",
+  "Type": "Screen",
+  "Id": "VwMsEiB9Q0aZpN9Z3seGuw",
+  "Reference": "RvPiOnuKPk6ytxYDBrEs6g/VwMsEiB9Q0aZpN9Z3seGuw",
+  "ParentRef": "RvPiOnuKPk6ytxYDBrEs6g/WovuBGw36kS7Hos5bKuntw",
+  "Created": "2025-09-25T22:23:59.7614109Z",
+  "Updated": "2025-09-25T22:23:59.7614109Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

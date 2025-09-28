@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="syU_b9NzMUapMNMU0o2U6g" Reference="yQHSNtB2YUW2Vsc30uWZ0g/VjojLgy8R0m4S3vuSVwiGg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items" CVScreenId="3e622316-7b38-4023-9657-d14f39830591" CvElementArea="1007, 826, 32, 33" CvTextArea="1017, 834, 11, 16" CvType="Icon" DesignTimeRectangle="1010, 828, 27, 27" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="[&quot;&lt;webctrl class='page-numbers current' tag='A'  aaname='&quot; +in_TransactionItem.ToString +  &quot;' /&gt;&quot;]" Guid="f03eb19e-b9a5-4b2f-833e-ffb6a05a616a" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAYAAAAfrhY5AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAEtSURBVFhH1ZfbDoMgEET7tf67xgejiW9KMyYYHHZll9qSTjJpigsHuSz4Cg314oJf6j/g+76HdV3DNE1hHMcwDEPo+/74xX+U4znirCrCt20L8zwfIKsRj3ol3cLxJvENvUY91L+TCl+WJWuwxmhHkwh/ChytdSCDY6i48hOWpuACxyKpneOS0S4vwgvcs6q7rruYn0tG+6lOOPYnB2tmsKcDaR444da5lmBSmeZ07k84MhQHStYgWjkbnAyOFMmBHlvh4GTwT1e5FQ5OBucgj63g6MfgXjCcwWuGvQYsDrt3wdWAYXHBWbcaXAuGxa1Wk2QkczxbTDLW9MowNsezxfQKeQ6WGqsHC9T0SIWsc+918TIR1ewaFfVUBzQwpMKhZlfnqGYfDam+8bn0BlzeDkXNNxPbAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="959, 828, 625, 40" ElementType="Container" FuzzySelectorArgument="&lt;webctrl type='' tag='NAV' class='woocommerce-pagination navigation' aaname='              ' check:innerText='1 2 3 4 5 6 7 8 9 10 11 12 13 &amp;gt;' /&gt;" Guid="8f33837f-9b8e-46eb-a987-6ec040768ad0" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="56dc3f8033288d746dd52dac426bc74e.png" xmlns="">0o4qbcGsbiUy94oG3Qu1yfQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
