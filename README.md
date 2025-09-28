@@ -81,10 +81,11 @@ Raya-RPA-Training/
 |  | Project05 - RPA Challenge Solver ( UiPath Implementation) | [Project05](Automation%20Developer%20Associate/Project05) |
 |  | Project06 - CV Information Extractor (UiPath Implementation) | [Project06](Automation%20Developer%20Associate/Project06) |
 |  | Project07 - ACME Verify Account Positions Process (UiPath Implementation, Orchestrator Deployment) | [Project07](Automation%20Developer%20Associate/Project07) |
-| Automation Developer Professional | Project01 - Calculate Client Security Hash (REFramework) | [Project01](Automation%20Developer%20Professional/Project01/Calculate%20Client%20Security%20Hash) |
-| Automation Developer Professional | Project02 - Generate Yearly Report (REFramework, Dispatcher & Performer) | [Project02](Automation%20Developer%20Professional/Project02/Generate%20Yearly%20Report) |
-| Intro to AI in UiPath | AI in UiPath Tasks (AI Center, Document Understanding, Communication Mining, Generative AI) | [AI_in_UiPath_Tasks](Intro%20to%20AI%20in%20UiPath/AI_in_UiPath_Tasks) |
 |  | UiPath Automation Developer Associate Training (All Practice Modules) | [UiPath Automation Developer Associate Training Tasks](Automation%20Developer%20Associate/UiPath%20Automation%20Developer%20Associate%20Training/) |
+| Automation Developer Professional | Project01 - Calculate Client Security Hash (REFramework) | [Project01](Automation%20Developer%20Professional/Project01/Calculate%20Client%20Security%20Hash) |
+| | Project02 - Generate Yearly Report (REFramework, Dispatcher & Performer) | [Project02](Automation%20Developer%20Professional/Project02/Generate%20Yearly%20Report) |
+| Intro to AI in UiPath | AI in UiPath Tasks (AI Center, Document Understanding, Communication Mining, Generative AI) | [AI_in_UiPath_Tasks](Intro%20to%20AI%20in%20UiPath/AI_in_UiPath_Tasks) |
+
 
 ---
 
